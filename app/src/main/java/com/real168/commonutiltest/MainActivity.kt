@@ -2,8 +2,7 @@ package com.real168.commonutiltest
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import com.real168.commonutillib.IntegerUtils
-import com.real168.commonutillib.StringUtils
+import com.real168.commonutillib.convert.IntegerUtils
 
 class MainActivity : AppCompatActivity() {
 

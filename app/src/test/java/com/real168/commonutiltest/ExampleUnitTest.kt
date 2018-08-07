@@ -1,7 +1,7 @@
 package com.real168.commonutiltest
 
-import com.real168.commonutillib.ByteUtils
-import com.real168.commonutillib.IntegerUtils
+import com.real168.commonutillib.convert.ByteUtils
+import com.real168.commonutillib.convert.IntegerUtils
 import org.junit.Test
 
 import org.junit.Assert.*
